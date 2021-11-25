@@ -1,1 +1,3 @@
 # automerge
+
+No rules now!
